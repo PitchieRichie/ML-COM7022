@@ -2,7 +2,6 @@
 # COM7022 Assignment — Student ID 24205517
 
 ## Contents
-- `COM7022_Assignment_24205517.docx` — Plain, unstyled Word submission ready for your own theme, fonts, cover styling, and Table of Contents.
 - `COM7022_Task1_Code_24205517.ipynb` — Executed Jupyter Notebook matching Appendix A section by section (`A.1`–`A.12`), with saved outputs.
 - `COM7022_Task1_Code_24205517.py` — Standalone Python script matching Appendix A and the notebook 1:1.
 - `Sales-[5444].csv` — Dataset required to execute `.py` or `.ipynb` directly inside this folder.
