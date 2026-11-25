@@ -7,8 +7,6 @@
 - `Sales-[5444].csv` — Dataset required to execute `.py` or `.ipynb` directly inside this folder.
 - `charts/` — 16 standard default-styled PNG charts (`01_log_transforms.png` to `16_segment_medians.png`) embedded in the Word document.
 
-## Notes on Styling
-All custom document themes, coloured headers/tables, callout boxes, and custom chart colour palettes have been intentionally omitted so you can apply your own Word formatting and chart styling independently.
 
 ## Re-Running Locally
 ```bash
